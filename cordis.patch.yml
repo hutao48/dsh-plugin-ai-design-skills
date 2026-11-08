@@ -1,0 +1,7 @@
+# AI design skills bundle.
+#
+# Registers one host-level skill provider that serves the two Agent Skills
+# bundled under ./skills (landing-page-design, figma-designer).
+- insert:
+    - id: ai-design-skills
+      name: dsh-plugin-ai-design-skills
