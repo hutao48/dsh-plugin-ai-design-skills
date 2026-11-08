@@ -1,5 +1,7 @@
 # dsh-plugin-ai-design-skills（AI 设计技能插件）
 
+> GitHub 仓库：<https://github.com/hutao48/dsh-plugin-ai-design-skills>
+
 一个 DeepSeek Harness 本地插件（bundle），向 Harness 的技能目录中加入两个设计技能：
 
 | 技能 | 适用场景 |
