@@ -1,6 +1,6 @@
 {
   "meta": {
-    "title": "AI design skills",
-    "description": "Adds two design skills: a complete landing page system (intake, structure, conversion copy, visual tokens) and a Figma design system (variables, text styles, auto layout, components)."
+    "title": "AI design skills (DeepSeek adapted)",
+    "description": "Two design skills rebuilt for DeepSeek V4.1 Flash and DeepSeek Harness: a landing page system (strategy, conversion copy, executable self-checks, file deliverables) and a Figma design system (two-layer color tokens, variables, component states, plus a spec-only fallback when no Figma MCP is available)."
   }
 }
